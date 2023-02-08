@@ -91,7 +91,7 @@ function criaMosca() {
 };
 
 function voltarMenu() {
-    location.href = "../../index.html"
+    location.href = "../index.html"
 }
 
 function reiniciarJogo() {
